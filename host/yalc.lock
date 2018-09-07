@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "apicurio-wc": {
+      "signature": "2ab31aca181264ad30c6e86a11199dc4",
+      "file": true
+    }
+  }
+}
